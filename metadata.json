@@ -1,0 +1,7 @@
+{
+  "name": "Lorenzo’s Trattoria Moderna",
+  "description": "A premium, modern Italian trattoria website demo featuring authentic dining experiences in Estepona, Spain.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
